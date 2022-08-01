@@ -93,5 +93,4 @@ function addChat(input, product) {
     textToSpeech(product)
   }, 2000
   )
-
 }
